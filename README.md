@@ -1,0 +1,2 @@
+# Foreground_Extraction_SegNet
+Foreground-Background Segmentation Using SegNet Semantic Segmentation Network
